@@ -1,8 +1,8 @@
 # Hello, I'm Claes 👋
 
-Welcome to my GitHub profile! I'm a software engineer with over 10 years of experience,
-working with FPGA and ASIC, embedded Linux, and DevOps. As an engineer I continuously
-try to improve and automate my work and everyday life.
+Welcome to my GitHub profile! I'm a software engineer with over 10 years of experience
+in FPGA, ASIC, embedded Linux, and DevOps. I continuously strive to improve and automate
+my work and everyday life.
 
 ## Projects
 
@@ -11,32 +11,26 @@ try to improve and automate my work and everyday life.
 
 ### Dotfiles
 
-One of my main repositories contains my carefully curated dotfiles, configured and
-optimized using Ansible for my Arch Linux environment. These dotfiles are tailored
-to my preferences for tiling window managers and Emacs, with a focus on simplicity,
-productivity, and personalization. Feel free to explore my [dotfiles repository][dotfiles-repo]
+My main repository contains my curated dotfiles, configured and optimized with Ansible
+for Arch Linux. These dotfiles are tailored for tiling window managers and Emacs,
+focusing on simplicity, productivity, and personalization. Explore my [dotfiles repository][dotfiles-repo]
 to learn more.
 
 ### Smart Home Automation
 
-I also maintain a repository for my smart home setup, where I leverage Ansible, Docker
-Compose, and NixOS to manage and orchestrate various services. This allows me to
-create an efficient and customizable smart home environment that aligns with my needs.
-Feel free to explore my [smart-home repository][smart-home-repo] to get inspired
-for your own smart home projects.
+I maintain a repository for my smart home setup, using Ansible, Docker Compose, and
+NixOS to manage and orchestrate services. This creates an efficient and customizable
+smart home environment. Explore my [smart-home repository][smart-home-repo] for inspiration.
 
 ## Other Interests
 
-Apart from my programming endeavors, I have a passion for homemade pizza-making,
-where I take pride in crafting the dough and creating delicious combinations of flavors.
-In addition, I find fulfillment in challenging myself physically through CrossFit
-workouts, pushing my limits and embracing a active lifestyle.
+I enjoy making homemade pizza, crafting the dough, and creating delicious flavor
+combinations. I also challenge myself with CrossFit workouts.
 
 ## Connect with Me
 
-If you're interested in my projects, have questions, or want to connect, feel free
-to reach out to me. You can find me on [LinkedIn][linkedin-profile]. Let's connect
-and collaborate on exciting projects!
+If you're interested in my projects, have questions, or want to connect, find me
+on [LinkedIn][linkedin-profile].
 
 Thanks for stopping by and happy coding! 🚀
 
